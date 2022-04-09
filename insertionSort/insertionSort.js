@@ -12,3 +12,5 @@ function insertionSort(lista) {
         }        
     }
 }
+
+export default insertionSort;
