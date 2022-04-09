@@ -1,0 +1,27 @@
+{
+  "name": "ordenacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivfernandes/sortJS.git"
+  },
+  "keywords": [
+    "insertion sort",
+    "merge sort",
+    "quick sort",
+    "binary search algorithm",
+    "javascript"
+  ],
+  "author": "ivfernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivfernandes/sortJS/issues"
+  },
+  "homepage": "https://github.com/ivfernandes/sortJS",
+  "type": "module"
+}
